@@ -14,7 +14,7 @@ import Constants from 'expo-constants';
 const DEV_MACHINE_IP = '192.168.1.209';
 
 // Production backend URL (set after deploying to Render)
-const PRODUCTION_API_URL = '';
+const PRODUCTION_API_URL = 'https://cosmiccircle-api.onrender.com/api';
 
 // Set this to your ngrok URL to enable remote access, or leave empty for local dev
 const NGROK_BACKEND_URL = '';
